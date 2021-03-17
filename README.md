@@ -10,9 +10,7 @@ Tutorial
 ![image](https://user-images.githubusercontent.com/19800645/111549658-52736500-875b-11eb-92b8-7b8db2d9fad8.png)
 ![image](https://user-images.githubusercontent.com/19800645/111549743-7d5db900-875b-11eb-8405-be0c95a4d62b.png)
 ![image](https://user-images.githubusercontent.com/19800645/111549823-a0886880-875b-11eb-8138-57424853e682.png)
-![image](https://user-images.githubusercontent.com/19800645/111550426-d24dff00-875c-11eb-9d9a-dc66d63555ba.png)
-
-
+![image](https://user-images.githubusercontent.com/19800645/111552849-f19b5b00-8761-11eb-9a5f-6d691a265905.png)
 
 4. Create a docker file
 5. Create a local image of docker
