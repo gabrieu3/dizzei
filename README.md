@@ -11,9 +11,10 @@ Tutorial
 ![image](https://user-images.githubusercontent.com/19800645/111549743-7d5db900-875b-11eb-8405-be0c95a4d62b.png)
 ![image](https://user-images.githubusercontent.com/19800645/111549823-a0886880-875b-11eb-8138-57424853e682.png)
 ![image](https://user-images.githubusercontent.com/19800645/111552849-f19b5b00-8761-11eb-9a5f-6d691a265905.png)
+![image](https://user-images.githubusercontent.com/19800645/111553537-60c57f00-8763-11eb-9b2c-de15f87c9825.png)
 
-4. Create a docker file
-5. Create a local image of docker
-6. Push image to the docker hub
-7. Pull image to the docker hub
-8. Run project using imagem of dockerhub
+2. Create a docker file
+3. Create a local image of docker
+4. Push image to the docker hub
+5. Pull image to the docker hub
+6. Run project using imagem of dockerhub
