@@ -22,8 +22,21 @@ Tutorial
 ![image](https://user-images.githubusercontent.com/19800645/111716007-e153b080-8833-11eb-98af-ea93bdd83056.png)
 ![image](https://user-images.githubusercontent.com/19800645/111716065-0516f680-8834-11eb-8384-6c4237ce2d6e.png)
 ![image](https://user-images.githubusercontent.com/19800645/111716129-25df4c00-8834-11eb-9203-e3e6d9335c7f.png)
+![image](https://user-images.githubusercontent.com/19800645/111850825-102f5c80-88f0-11eb-8f8d-d9768547376f.png)
+![image](https://user-images.githubusercontent.com/19800645/111850862-3228df00-88f0-11eb-8c8c-4dd3b9195bc9.png)
+![image](https://user-images.githubusercontent.com/19800645/111850978-7f0cb580-88f0-11eb-867f-769ed265bd36.png)
+
+4. Push image to the docker hub
+![image](https://user-images.githubusercontent.com/19800645/111851208-2984d880-88f1-11eb-93cc-aff36c4ab000.png)
+![image](https://user-images.githubusercontent.com/19800645/111851323-82ed0780-88f1-11eb-830e-592591274271.png)
+
+5. Pull image to the docker hub
+![image](https://user-images.githubusercontent.com/19800645/111851434-e1b28100-88f1-11eb-95c7-d76354e6a5bf.png)
+![image](https://user-images.githubusercontent.com/19800645/111851474-0c043e80-88f2-11eb-9023-ce755a15fa00.png)
+![image](https://user-images.githubusercontent.com/19800645/111851513-37872900-88f2-11eb-87ce-f8e8c2b8902b.png)
+![image](https://user-images.githubusercontent.com/19800645/111851622-ae242680-88f2-11eb-89d6-3715d48b757b.png)
+![image](https://user-images.githubusercontent.com/19800645/111851651-cf851280-88f2-11eb-9f09-3b7abeae96b0.png)
+![image](https://user-images.githubusercontent.com/19800645/111851849-a0bb6c00-88f3-11eb-94ec-2c0e7c3c452c.png)
 
 
-6. Push image to the docker hub
-7. Pull image to the docker hub
 8. Run project using imagem of dockerhub
