@@ -34,10 +34,26 @@ docker images
 ![image](https://user-images.githubusercontent.com/19800645/111850978-7f0cb580-88f0-11eb-867f-769ed265bd36.png)
 
 4. Push image to the docker hub
+
+docker tag dizzy gabrieu3/dizzy
+
+docker push gabrieu3/dizzy
+
+docker images
+
 ![image](https://user-images.githubusercontent.com/19800645/111851208-2984d880-88f1-11eb-93cc-aff36c4ab000.png)
 ![image](https://user-images.githubusercontent.com/19800645/111851323-82ed0780-88f1-11eb-830e-592591274271.png)
 
 5. Pull image to the docker hub
+
+docker rmi dizzy gabrieu3/dizzy
+
+docker images
+
+docker run -p 8080:8080
+
+docker images
+
 ![image](https://user-images.githubusercontent.com/19800645/111851434-e1b28100-88f1-11eb-95c7-d76354e6a5bf.png)
 ![image](https://user-images.githubusercontent.com/19800645/111851474-0c043e80-88f2-11eb-9023-ce755a15fa00.png)
 ![image](https://user-images.githubusercontent.com/19800645/111851513-37872900-88f2-11eb-87ce-f8e8c2b8902b.png)
