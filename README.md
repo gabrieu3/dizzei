@@ -19,9 +19,13 @@ Tutorial
 ![image](https://user-images.githubusercontent.com/19800645/111715964-c719d280-8833-11eb-94a3-8b4aa3fd897c.png)
 
 3. Create a local image of docker
+
 docker build -t dizzy
+
 docker build -t dizzy .
+
 docker images
+
 ![image](https://user-images.githubusercontent.com/19800645/111716007-e153b080-8833-11eb-98af-ea93bdd83056.png)
 ![image](https://user-images.githubusercontent.com/19800645/111716065-0516f680-8834-11eb-8384-6c4237ce2d6e.png)
 ![image](https://user-images.githubusercontent.com/19800645/111716129-25df4c00-8834-11eb-9203-e3e6d9335c7f.png)
