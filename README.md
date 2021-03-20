@@ -46,11 +46,11 @@ docker images
 
 5. Pull image to the docker hub
 
-docker rmi dizzy gabrieu3/dizzy
+docker rmi dizzy gabrieu3/dizzy_3
 
 docker images
 
-docker run -p 8080:8080
+docker run -p 8080:8080 gabrieu3/dizzy_3
 
 docker images
 
@@ -58,8 +58,10 @@ docker images
 ![image](https://user-images.githubusercontent.com/19800645/111851474-0c043e80-88f2-11eb-9023-ce755a15fa00.png)
 ![image](https://user-images.githubusercontent.com/19800645/111851513-37872900-88f2-11eb-87ce-f8e8c2b8902b.png)
 ![image](https://user-images.githubusercontent.com/19800645/111851622-ae242680-88f2-11eb-89d6-3715d48b757b.png)
-![image](https://user-images.githubusercontent.com/19800645/111851651-cf851280-88f2-11eb-9f09-3b7abeae96b0.png)
+
+
+
+6. Run project using imagem of dockerhub
+![image](https://user-images.githubusercontent.com/19800645/111853364-78cf0700-88f9-11eb-99e7-5a76f8655158.png)
 ![image](https://user-images.githubusercontent.com/19800645/111851849-a0bb6c00-88f3-11eb-94ec-2c0e7c3c452c.png)
-
-
-8. Run project using imagem of dockerhub
+![image](https://user-images.githubusercontent.com/19800645/111853372-82f10580-88f9-11eb-9828-84aeb06e7185.png)
