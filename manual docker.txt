@@ -1,0 +1,17 @@
+docker login
+
+3. Create local Image
+docker build -t dizzy
+docker build -t dizzy .
+docker images
+
+4. Push Image to the docker hub
+docker tag dizzy gabrieu3/dizzy_3
+docker push gabrieu3/dizzy_3
+docker images
+
+5. Pull imagem to the docker hub
+docker rmi dizzy gabrieu3/dizzy_3
+docker images
+docker run -p 8080:8080 gabrieu3/dizzy_3
+docker images
