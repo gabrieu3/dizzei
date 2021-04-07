@@ -65,3 +65,40 @@ docker images
 ![image](https://user-images.githubusercontent.com/19800645/111853364-78cf0700-88f9-11eb-99e7-5a76f8655158.png)
 ![image](https://user-images.githubusercontent.com/19800645/111851849-a0bb6c00-88f3-11eb-94ec-2c0e7c3c452c.png)
 ![image](https://user-images.githubusercontent.com/19800645/111853372-82f10580-88f9-11eb-9828-84aeb06e7185.png)
+
+7. AWS
+![image](https://user-images.githubusercontent.com/19800645/113795290-e4e7a280-9722-11eb-93d5-e56865056da2.png)
+![image](https://user-images.githubusercontent.com/19800645/113795332-fd57bd00-9722-11eb-915e-149b84cd7fa9.png)
+![image](https://user-images.githubusercontent.com/19800645/113795368-1496aa80-9723-11eb-84d5-37f150a2d55c.png)
+![image](https://user-images.githubusercontent.com/19800645/113795429-427bef00-9723-11eb-9972-d5bad36ee533.png)
+![image](https://user-images.githubusercontent.com/19800645/113795468-5fb0bd80-9723-11eb-84d0-74fb37d76ef3.png)
+![image](https://user-images.githubusercontent.com/19800645/113795511-79ea9b80-9723-11eb-90d6-65bd5e227f3a.png)
+![image](https://user-images.githubusercontent.com/19800645/113795632-bddda080-9723-11eb-82a0-95ef2d7839fd.png)
+![image](https://user-images.githubusercontent.com/19800645/113795696-db126f00-9723-11eb-92b7-f69ee53465da.png)
+![image](https://user-images.githubusercontent.com/19800645/113795756-fd0bf180-9723-11eb-842f-d28e6b326219.png)
+
+AWS Server
+sudo -i
+sudo yum update -y
+sudo yum install docker
+sudo service docker start
+docker -v
+docker pull gabrieu3/dizzy_3:tagname
+docker run -p 80:8080
+docker run -p 80:8080 --name spring-boot-docker gabrieu3/dizzy_3
+![image](https://user-images.githubusercontent.com/19800645/113796426-98ea2d00-9725-11eb-92fb-ba511f61e077.png)
+![image](https://user-images.githubusercontent.com/19800645/113796772-67be2c80-9726-11eb-81ec-66afe6bb0bf7.png)
+![image](https://user-images.githubusercontent.com/19800645/113797337-70633280-9727-11eb-97f2-0bee1be8a17c.png)
+![image](https://user-images.githubusercontent.com/19800645/113797846-6e4da380-9728-11eb-9430-5e6600a3143a.png)
+
+
+
+
+
+
+
+
+
+
+
+
